@@ -8,4 +8,6 @@ The original paper is "Assessing the Causal Structure of Function" (2004).
 
 We re-implement the experiment on GPT-3 and -4. 
 
-The paper linked above does not include the full scenario texts. To recover the full texts, we make use of Sergio Chaigneau's Emory Ph.D. thesis ("Studies in the conceptual structure of object function"). 
+The paper linked above does not include the full scenario texts. To recover the full texts, we make use of Sergio Chaigneau's Emory Ph.D. thesis ("Studies in the conceptual structure of object function", 2002). 
+
+The thesis is available here: https://www.proquest.com/docview/305476051?pq-origsite=gscholar&fromopenview=true
